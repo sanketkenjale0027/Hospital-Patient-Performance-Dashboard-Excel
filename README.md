@@ -29,11 +29,11 @@ The dashboard transforms raw healthcare data into meaningful insights through ch
 - Data Analysis
 - Dashboard Design
 
-## 📸 Dashboard Screenshot
+## Hospital Dashboard
 
-Hospital & Patient Performance Dashboard
+![Hospital Dashboard](./snapshot%20of%20the%20Hospital%20dashboard.png)
 
-"Hospital and Patient Performance Dashboard" (screenshots/hospital-patient-dashboard.png)
+
 
 ## 💡 Key Skills Demonstrated
 
